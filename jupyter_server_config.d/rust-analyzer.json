@@ -1,0 +1,12 @@
+{
+  "LanguageServerManager": {
+    "language_servers": {
+      "rust-analyzer": {
+        "version": 2,
+        "argv": ["/usr/local/bin/rust-analyzer"],
+        "languages": ["rust"],
+        "mime_types": ["text/x-rust"]
+      }
+    }
+  }
+}
